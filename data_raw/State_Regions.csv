@@ -1,0 +1,55 @@
+﻿Alabama,EastSouthCentral
+Alaska,Pacific
+Arizona,Mountain
+Arkansas,WestSouthCentral
+California,Pacific
+Colorado,Mountain
+Connecticut,NewEngland
+Delaware,SouthAtlantic
+District of Columbia,SouthAtlantic
+Florida,SouthAtlantic
+Georgia,SouthAtlantic
+Hawaii,Pacific
+Idaho,Mountain
+Illinois,EastNorthCentral
+Indiana,EastNorthCentral
+Iowa,WestNorthCentral
+Kansas,WestNorthCentral
+Kentucky,EastSouthCentral
+Louisiana,WestSouthCentral
+Maine,NewEngland
+Maryland,SouthAtlantic
+Massachusetts,NewEngland
+Michigan,EastNorthCentral
+Minnesota,WestNorthCentral
+Mississippi,EastSouthCentral
+Missouri,WestNorthCentral
+Montana,Mountain
+Nebraska,WestNorthCentral
+Nevada,Mountain
+New Hampshire,NewEngland
+New Jersey,MiddleAtlantic
+New Mexico,Mountain
+New York,MiddleAtlantic
+North Carolina,SouthAtlantic
+North Dakota,WestNorthCentral
+Ohio,EastNorthCentral
+Oklahoma,WestSouthCentral
+Oregon,Pacific
+Pennsylvania,MiddleAtlantic
+Rhode Island,NewEngland
+South Carolina,SouthAtlantic
+South Dakota,WestNorthCentral
+Tennessee,EastSouthCentral
+Texas,WestSouthCentral
+Utah,Mountain
+Vermont,NewEngland
+Virginia,SouthAtlantic
+Washington,Pacific
+West Virginia,SouthAtlantic
+Wisconsin,EastNorthCentral
+Wyoming,Mountain
+Caribbean,Caribbean
+Unknown,Other
+Other Foreign,Other
+Pacific Ocean,PacificOcean
