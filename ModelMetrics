@@ -1,0 +1,20 @@
+Support Vector Machine Model for Predicting Aircraft Accident Causes
+
+Model takes in the feature variables of: 
+  Fatal, serious and minor injury counts
+  Event month
+  Region (Carribean, PacificOcean, EastNorthCentral, EastSouthCentral, MiddleAtlantic, Mountain, 
+          NewEngland, Pacific, South Atlantic, WestNorthCentral, WestSouthCentral, and Other)
+  Far Part 121 or 135
+  Highest Injury level (Fatal, Serious, Minor and None)
+  
+Model Parameters:
+  C: 100
+  gamma: 0.01
+  class_weight: {'Aircraft ': 1, 'Environmental issues ': 1, 'Personnel issues ': 1, 'Other': 1}
+  
+Model Results:
+  Accuracy: 0.547
+  Precision: 0.553
+  Recall: 0.547
+  f1-score: 0.539
